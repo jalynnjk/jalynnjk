@@ -1,4 +1,4 @@
-![jalynnjk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalynnjk&show_icons=true&theme=merko)
+![jalynnjk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalynnjk&show_icons=true&theme=rose_pine)
 
 ### Hi there 👋
 
