@@ -1,8 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jalynnjk&show_icons=true&theme=bear" alt="jalynnjk's GitHub stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalynnjk&show_icons=true&theme=bear" alt="jalynnjk's GitHub stats"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalynnjk&layout=compact&theme=bear" alt="jalynnjk's top languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalynnjk&layout=compact&theme=bear" alt="jalynnjk's top languages"/>
 
 ### Hi there 👋
+<img align="center" src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" alt="Napoleon waving"/>
 
 <!--
 **jalynnjk/jalynnjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
