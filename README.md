@@ -1,6 +1,6 @@
-<img align='center '![jalynnjk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalynnjk&show_icons=true&theme=bear) />
+<img align="center" src="![jalynnjk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalynnjk&show_icons=true&theme=bear)" />
 
-<img align='center' ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalynnjk&layout=compact&theme=bear) />
+<img align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalynnjk&layout=compact&theme=bear)" />
 
 ### Hi there 👋
 
