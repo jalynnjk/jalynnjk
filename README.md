@@ -1,3 +1,5 @@
+[![jalynnjk GitHub stats](https://github-readme-stats.vercel.app/api?username=jalynnjk)](https://github.com/jalynnjk/github-readme-stats)
+
 ### Hi there 👋
 
 <!--
