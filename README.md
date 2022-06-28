@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalynnjk&layout=compact&theme=bear" alt="jalynnjk's top languages"/>
 
-### Hi there 👋
+<h1 text-align="center">Hello There!!!</h1>
 <img align="center" src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" alt="Napoleon waving"/>
 
 <!--
