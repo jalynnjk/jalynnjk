@@ -1,4 +1,4 @@
-[![jalynnjk GitHub stats](https://github-readme-stats.vercel.app/api?username=jalynnjk)](https://github.com/jalynnjk/github-readme-stats)
+![jalynnjk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalynnjk&showicons=true&theme=tokyonight)
 
 ### Hi there 👋
 
