@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jalynn King</h1>
-<img align="center" src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" alt="Napoleon waving"/>
 <h3 align="center">A Full-Stack Software Engineer Apprentice from General Assembly.</h3>
+<img align="center" src="https://media.giphy.com/media/icUEIrjnUuFCWDxFpU/giphy.gif" alt="Napoleon waving"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalynnjk&label=Profile%20views&color=0e75b6&style=flat" alt="jalynnjk" /> </p>
 
