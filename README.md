@@ -1,6 +1,6 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalynnjk&show_icons=true&theme=bear" alt="jalynnjk's GitHub stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jalynnjk&show_icons=true&theme=bear" alt="jalynnjk's GitHub stats"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalynnjk&layout=compact&theme=bear" alt="jalynnjk's top languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalynnjk&layout=compact&theme=bear" alt="jalynnjk's top languages"/>
 
 ### Hi there 👋
 
