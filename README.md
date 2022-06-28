@@ -1,4 +1,4 @@
-<img align="center" src="![jalynnjk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalynnjk&show_icons=true&theme=bear)" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalynnjk&show_icons=true&theme=bear" alt="jalynnjk's GitHub stats" />
 
 <img align="center" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalynnjk&layout=compact&theme=bear)" />
 
